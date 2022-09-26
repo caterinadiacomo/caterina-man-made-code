@@ -1,0 +1,5 @@
+name: man-made-code
+channels:
+  - conda-forge
+dependencies:
+  - pytest
